@@ -698,7 +698,7 @@ footer for the website  */
 
 footer{
   
-  background: url(OIP.png);
+  background: linear-gradient(120deg , rgb(27, 27, 27) , rgb(86, 85, 85)) ;
   width: 100%;
   bottom: 0;
   left: 0;
